@@ -1,1 +1,2 @@
 Console.WriteLine("Nombre: Jasmin Sarai Salgado Funes. -Aporte: Comparación entre desarrollo tradicional y desarrollo ágil.")
+Console.WriteLine("Samuel Armando Santos Flores - Principio Ágil: La mayor prioridad es satisfacer al cliente mediante la entrega temprana y continua de software con valor.");
