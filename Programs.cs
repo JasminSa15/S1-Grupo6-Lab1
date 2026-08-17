@@ -1,1 +1,0 @@
-Console.WriteLine("Nombre: Jasmin Sarai Salgado Funes. -Aporte: Comparación entre desarrollo tradicional y desarrollo ágil.");
